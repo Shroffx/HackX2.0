@@ -11,6 +11,7 @@ The idea focues on developing a plagiarism checking program for detecting any ma
 #### 2. Abstract Syntax Trees (AST)
 #### 3. Variable Replacement Hash-Based
 
+
 ### Phase 2- AI-Based Detection
 #### 1. Obfuscated Code Detection
 #### 2. Semantic Similarity
